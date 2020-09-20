@@ -26,7 +26,7 @@ Education
 
 Work experience
 ======
-* <b>Data Scientist</b>, August 2018 to January 2019 <br>
+* <b>Data Scientist</b>, August 2018 to January 2020 <br>
   MITRE, McLean, VA
 
 * <b>IT/Modeling Analyst</b>, July 2016 to July 2018 <br>
