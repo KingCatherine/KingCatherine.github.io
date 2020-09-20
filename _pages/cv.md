@@ -38,7 +38,7 @@ Teaching experience
 ======
 While both an undergraduate and a graduate student at the College of William and Mary, I was a teaching assistant for the following courses:
 * [MATH 112](https://www.wm.edu/as/mathematics/undergrad/wheretostart/math112/index.php) - Calculus II, Fall 2014 - Spring 2016
-* [MATH 345/MSCI 648](http://catalog.wm.edu/preview_course_nopop.php?catoid=5&coid=8334) - Introduction to Mathematical Biology, Fall 2013, TA
+* [MATH 345/MSCI 648](http://catalog.wm.edu/preview_course_nopop.php?catoid=5&coid=8334) - Introduction to Mathematical Biology, Fall 2013
 
 While a graduate student at the College of William and Mary, from Fall 2014 - Spring 2016 I was a grader for the following courses for at least one semester:
 * [MATH 106](http://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31181) - Elementary Probability and Statistics
