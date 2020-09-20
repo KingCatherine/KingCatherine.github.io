@@ -33,7 +33,8 @@ Peer-reviewed publications in reverse chronological order
   
 * <b>Dimension and mortality in linear stage class models of <i>Acartia tonsa</i></b> <br>
   Catherine King, Katherine Shipman, Sarah Day, and Drew LaMar <br>
-  <i>Proceedings of the Sixth International Symposium on Biomathematics and Ecology Education and Research (BEER)</i>
+  <i>Proceedings of the Sixth International Symposium on Biomathematics and Ecology Education and Research (BEER)</i> <br>
+  Arlington, VA. October 2013.
   [PDF](http://kingcatherine.github.io/files/ZooplanktonBEER.pdf)
   
   
