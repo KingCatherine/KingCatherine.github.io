@@ -22,7 +22,7 @@ Peer-reviewed publications in reverse chronological order
 
 * <b>System Dynamics for Estimating Suas Operations</b> <br>
   Catherine King and Stephanie Glasser <br>
-  <i>Proceedings of the 2019 Winter Simulation Conference (WSC) <br>
+  <i>Proceedings of the 2019 Winter Simulation Conference (WSC)</i> <br>
   National Harbor, MD. December 2019 
 
 * <b>Data analysis and simulation: Optimizing voter wait times”</b> <br>
@@ -34,6 +34,6 @@ Peer-reviewed publications in reverse chronological order
 * <b>Dimension and mortality in linear stage class models of <i>Acartia tonsa</i></b> <br>
   Catherine King, Katherine Shipman, Sarah Day, and Drew LaMar <br>
   <i>Proceedings of the Sixth International Symposium on Biomathematics and Ecology Education and Research (BEER)</i>
-  [PDF]()
+  [PDF](http://kingcatherine.github.io/files/ZooplanktonBEER.pdf)
   
   
