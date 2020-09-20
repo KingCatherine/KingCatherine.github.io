@@ -12,27 +12,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Societal Computing, Carnegie Mellon University, 2019-2024 (expected)
-  Advisor: 
-* M.S. in Computer Science with a Specialization in Computational Operations Research, The College of William and Mary, 2014-2016
-  Capstone Project: 
-  Advisor: 
-* B.S. in Mathematics with a minor in Computer Science, The College of William and Mary, 2010-2014
-  Thesis:
-  Advisor:
+* Ph.D. in Societal Computing, 2019-2024 (expected) <br>
+  Carnegie Mellon University, Pittsburgh, PA <br>
+  Advisor: [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html)
+* M.S. in Computer Science with a Specialization in Computational Operations Research, 2014-2016 <br>
+  The College of William and Mary, Williamsburg, VA <br>
+  Capstone Project: Optimizing voter wait times <br>
+  Advisor: Prof. Lawrence Leemis
+* B.S. in Mathematics with a minor in Computer Science, 2010-2014 <br>
+  The College of William and Mary, Williamsburg, VA <br>
+  Thesis: Nonlinear Models of Zooplankton Communities <br>
+  Advisor: Prof. Sarah Day and Prof. Drew LaMar
 
 Work experience
 ======
-* Data Scientist, August 2018 to January 2019
+* Data Scientist, August 2018 to January 2019 <br>
   MITRE, McLean, VA
 
-* IT/Modeling Analyst, July 2016 to July 2018
+* IT/Modeling Analyst, July 2016 to July 2018 <br>
   Genworth, Richmond, VA
   
-* Modeling & Simulation Intern, Summer 2015
+* Modeling & Simulation Intern, Summer 2015 <br>
   Newport News Shipbuilding, Newport News, VA
   
-* Research Assistant, January 2012 - August 2014
+* Research Assistant, January 2012 - August 2014 <br>
   The College of William and Mary, Williamsburg, VA
   
 Teaching experience
