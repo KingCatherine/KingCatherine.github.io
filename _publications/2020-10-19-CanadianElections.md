@@ -1,7 +1,7 @@
 ---
 title: "Lying about lying on social media: a case study of the 2019 Canadian elections"
 collection: publications
-permalink: /publication/CanadianElection
+permalink: /publication/2020-10-19-CanadianElection
 excerpt: 'This paper is about bot activity on Twitter during the 2019 Canadian federal elections.'
 date: 2020-10-19
 venue: 'SBP-BRiMS'
