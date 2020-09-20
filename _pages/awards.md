@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-* <b>Student Excellence Award, 3rd Place<br>
+* <b>Student Excellence Award, 3rd Place</b><br>
   WINFORMS award for "Optimizing Voter Wait Times", 2016
   
-* <b>MODSIM World 2016 Conference, Fan Favorite Award<br>
+* <b>MODSIM World 2016 Conference, Fan Favorite Award</b><br>
   MODSIM World 2016 Conference for "Optimizing Voter Wait Times"
 
-* <b>Luther T. Connor Prize in Mathematics<br>
+* <b>Luther T. Connor Prize in Mathematics</b><br>
   The College of William and Mary, 2014
   
-* <b>Undergraduate Research Competition, 1st Place<br>
+* <b>Undergraduate Research Competition, 1st Place</b><br>
   International Symposium on Biomathematics and Ecology Education and Research Conference, 2013
   
