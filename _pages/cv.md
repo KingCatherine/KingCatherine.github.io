@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D. in Societal Computing, Carnegie Mellon University, 2019-2024 (expected)
