@@ -13,23 +13,25 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
+Selected works are shown below in reverse chronological order.
+
 Tech Reports
 ======
-*<b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
+* <b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
 Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
-<i>CMU Tech Report </i>
+<i>CMU Tech Report </i>, 2021
 
 Peer-Reviewed Publications
 ======
 Peer-reviewed publications in reverse chronological order
 * <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
-<i>Social Media + Society</i><br>
+<i>Social Media + Society</i>, 2021<br>
 [PDF](http://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf)
 
 * <b>Deceptive accusations and concealed identities as misinformation campaign strategies</b><br>
 Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
-<i>Computational and Mathematical Organization Theory</i> <br>
+<i>Computational and Mathematical Organization Theory</i>, 2020 <br>
 [PDF](http://kingcatherine.github.io/files/Extended_Canada_Paper2.pdf)
 
 * <b>Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections</b> <br>
