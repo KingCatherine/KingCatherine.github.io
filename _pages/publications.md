@@ -19,7 +19,7 @@ Tech Reports
 ======
 * <b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
 Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
-<i>CMU Tech Report </i>, 2021<br>
+<i>CMU Tech Report</i>, 2021<br>
 [PDF](http://kingcatherine.githubio.files/CMU-ISR-21-110.pdf)
 
 Peer-Reviewed Publications
@@ -45,7 +45,7 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
   <i>Proceedings of the 2019 Winter Simulation Conference (WSC)</i> <br>
   National Harbor, MD. December 2019 
 
-* <b>Data analysis and simulation: Optimizing voter wait times”</b> <br>
+* <b>Data analysis and simulation: Optimizing voter wait times</b> <br>
   Catherine King and Lawrence M. Leemis <br>
   <i>Proceedings of 2016 IEEE Systems and Information Engineering Design Symposium (SIEDS)</i> <br>
   Charlottesville, VA. April 2016 <br>
