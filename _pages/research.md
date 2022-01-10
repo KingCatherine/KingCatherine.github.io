@@ -38,7 +38,7 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
   Catherine King, Daniele Bellutta, and Kathleen M. Carley <br>
   <i>Proceedings of the 2020 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>
   Virtual conference, October 2020 <br>
-[PDF](http://kingcatherine.github.io/files/Canada_Paper_v3.pdf)[SLIDES](http://kingcatherine.github.io/files/CanadianElection_CaseStudy_BRIMS.pptx)   
+[PDF](http://kingcatherine.github.io/files/Canada_Paper_v3.pdf), [SLIDES](http://kingcatherine.github.io/files/CanadianElection_CaseStudy_BRIMS.pptx)   
 
 * <b>System Dynamics for Estimating Suas Operations</b> <br>
   Catherine King and Stephanie Glasser <br>
