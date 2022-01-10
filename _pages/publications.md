@@ -19,11 +19,11 @@ Tech Reports
 ======
 * <b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
 Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
-<i>CMU Tech Report </i>, 2021
+<i>CMU Tech Report </i>, 2021<br>
+[PDF](http://kingcatherine.githubio.files/CMU-ISR-21-110.pdf)
 
 Peer-Reviewed Publications
 ======
-Peer-reviewed publications in reverse chronological order
 * <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
 <i>Social Media + Society</i>, 2021<br>
@@ -56,5 +56,8 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
   <i>Proceedings of the Sixth International Symposium on Biomathematics and Ecology Education and Research (BEER)</i> <br>
   Arlington, VA. October 2013. <br>
   [PDF](http://kingcatherine.github.io/files/ZooplanktonBEER.pdf)
+  
+External Talks
+======
   
   
