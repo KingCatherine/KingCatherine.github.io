@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -13,11 +13,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
-Tech Report
+Tech Reports
+======
 *<b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
 Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 <i>CMU Tech Report </i>
 
+Peer-Reviewed Publications
+======
 Peer-reviewed publications in reverse chronological order
 * <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
