@@ -31,7 +31,7 @@ J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
 
 * <b>Deceptive accusations and concealed identities as misinformation campaign strategies</b><br>
 Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
-<i>Computational and Mathematical Organization Theory</i>, 2020 <br>
+<i>Computational and Mathematical Organization Theory</i>, 2021 <br>
 [PDF](http://kingcatherine.github.io/files/Extended_Canada_Paper2.pdf)
 
 * <b>Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections</b> <br>
