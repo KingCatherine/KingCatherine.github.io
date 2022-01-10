@@ -14,6 +14,16 @@ author_profile: true
 {% endfor %}-->
 
 Peer-reviewed publications in reverse chronological order
+* <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
+J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
+<i>Social Media + Society</i><br>
+[PDF](http://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf)
+
+* <b>Deceptive accusations and concealed identities as misinformation campaign strategies</b><br>
+Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
+<i>Computational and Mathematical Organization Theory</i> <br>
+[PDF](http://kingcatherine.github.io/files/Extended_Canada_Paper2.pdf)
+
 * <b>Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections</b> <br>
   Catherine King, Daniele Bellutta, and Kathleen M. Carley <br>
   <i>Proceedings of the 2020 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>
