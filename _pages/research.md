@@ -40,7 +40,7 @@ Catherine King and Kathleen M. Carley <br>
 * <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
 <i>Social Media + Society</i>, 2021<br>
-[PDF](http://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf)
+[PDF](http://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html)
 
 * <b>Deceptive accusations and concealed identities as misinformation campaign strategies</b><br>
 Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
