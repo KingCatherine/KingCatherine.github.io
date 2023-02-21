@@ -24,6 +24,19 @@ Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 
 Peer-Reviewed Publications
 ======
+* <b>Registered Report: A path forward on online misinformation mitigation based on current user behavior</b><br>
+Catherine King, Samatha C. Phillips, and Kathleen M. Carley<br>
+<i>Under Review at Scientific Reports</i>
+ 
+* <b>Connecting the Domains: An Investigation of Internet Domains found in COVID-19 Conspiracy Tweets</b><br>
+J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
+<i>Under Review at Computational and Mathematical Organization Theory</i>
+
+* <b>Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary</b><br>
+Catherine King and Kathleen M. Carley <br>
+<i> Social Network Mining and Analysis</i>, <b>Forthcoming</b> 2023<br>
+[PDF](http://kingcatherine.github.io/files/DemPrimary.pdf)
+
 * <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
 <i>Social Media + Society</i>, 2021<br>
