@@ -34,7 +34,7 @@ J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
 
 * <b>Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary</b><br>
 Catherine King and Kathleen M. Carley <br>
-<i> Social Network Mining and Analysis</i>, <b>Forthcoming</b> 2023<br>
+<i> Social Network Mining and Analysis, (Forthcoming 2023)</i><br>
 [PDF](http://kingcatherine.github.io/files/DemPrimary.pdf)
 
 * <b>Hunting Conspiracy Theories During the COVID-19 Pandemic</b><br>
