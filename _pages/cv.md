@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-See full [resume](http://kingcatherine.github.io/files/ResumeSpring2023.pdf)
 
 Education
 ======
@@ -51,3 +50,5 @@ While a graduate student at the College of William and Mary, from Fall 2014 to S
 * [MATH 106](http://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31181) - Elementary Probability and Statistics
 * [MATH 302](http://catalog.wm.edu/preview_course_nopop.php?catoid=7&coid=12598) - Ordinary Differential Equations
 * [MATH 452/552](http://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31212) - Mathematical Statistics
+
+See a more detailed resume [here](https://kingcatherine.github.io/files/ResumeSpring2023.pdf).
