@@ -47,8 +47,8 @@ While both an undergraduate and a graduate student at the College of William and
 * [MATH 345/MSCI 648](http://catalog.wm.edu/preview_course_nopop.php?catoid=5&coid=8334) - Introduction to Mathematical Biology, Fall 2013
 
 While a graduate student at the College of William and Mary, from Fall 2014 to Spring 2016 I was a <b>grader</b> for the following courses for at least one semester:
-* [MATH 106](http://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31181) - Elementary Probability and Statistics
-* [MATH 302](http://catalog.wm.edu/preview_course_nopop.php?catoid=7&coid=12598) - Ordinary Differential Equations
-* [MATH 452/552](http://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31212) - Mathematical Statistics
+* [MATH 106](https://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31181) - Elementary Probability and Statistics
+* [MATH 302](https://catalog.wm.edu/preview_course_nopop.php?catoid=7&coid=12598) - Ordinary Differential Equations
+* [MATH 452/552](https://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31212) - Mathematical Statistics
 
-See a more detailed resume [here](https://kingcatherine.github.io/files/ResumeSpring2023.pdf).
+<b>See a more detailed resume [here](https://kingcatherine.github.io/files/ResumeSpring2023.pdf).</b>
