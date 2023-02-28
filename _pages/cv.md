@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+See full [resume](http://kingcatherine.github.io/files/ResumeSpring2023.pdf)
 
 Education
 ======
