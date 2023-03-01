@@ -20,7 +20,7 @@ Tech Reports
 * <b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
 Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 <i>CMU Tech Report</i>, 2021<br>
-[PDF](https://kingcatherine.githubio.files/CMU-ISR-21-110.pdf)
+[PDF](https://kingcatherine.github.io/files/CMU-ISR-21-110.pdf)
 
 Peer-Reviewed Publications
 ======

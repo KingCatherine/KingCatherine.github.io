@@ -9,7 +9,7 @@ author_profile: true
 
 * <b>[SBP-BRiMS 2020 Best Paper Award](http://sbp-brims.org/2021/priorwinners/)</b><br>
 Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections,” 
-[PDF](http://kingcatherine.github.io/files/Canada_Paper_v3.pdf)
+[PDF](https://kingcatherine.github.io/files/Canada_Paper_v3.pdf)
 
 * <b>Student Excellence Award, 3rd Place</b><br>
   WINFORMS award for "Optimizing Voter Wait Times", 2016
