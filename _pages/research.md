@@ -35,12 +35,12 @@ J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
 * <b>[Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary](https://link.springer.com/article/10.1007/s13278-023-01045-4)</b><br>
 Catherine King and Kathleen M. Carley <br>
 <i> Social Network Mining and Analysis, 2023</i><br>
-[PDF](https://kingcatherine.github.io/files/DemPrimary.pdf)
+[PDF](https://kingcatherine.github.io/files/DemPrimary.pdf), [POSTER](https://kingcatherine.github.io/files/King_DemPrimaryPoster.pptx)
 
 * <b>[Hunting Conspiracy Theories During the COVID-19 Pandemic](https://journals.sagepub.com/doi/pdf/10.1177/20563051211043212)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
 <i>Social Media + Society</i>, 2021<br>
-[PDF](https://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html)
+[PDF](https://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html), [POSTER](https://kingcatherine.github.io/files/Moffitt_CASOS_SI_2022_Poster.pptx)
 
 * <b>[Deceptive accusations and concealed identities as misinformation campaign strategies](https://link.springer.com/article/10.1007/s10588-021-09328-x)</b><br>
 Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
