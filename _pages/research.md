@@ -47,7 +47,7 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
 <i>Computational and Mathematical Organization Theory</i>, 2021 <br>
 [PDF](https://kingcatherine.github.io/files/Extended_Canada_Paper2.pdf)
 
-* <b>[Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections<](https://link.springer.com/chapter/10.1007/978-3-030-61255-9_8)/b> <br>
+* <b>[Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections](https://link.springer.com/chapter/10.1007/978-3-030-61255-9_8)</b> <br>
   Catherine King, Daniele Bellutta, and Kathleen M. Carley <br>
   <i>Proceedings of the 2020 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>
   Virtual conference, October 2020 <br>
