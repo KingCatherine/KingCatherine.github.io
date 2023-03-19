@@ -17,7 +17,7 @@ Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About L
 * <b>MODSIM World 2016 Conference, Fan Favorite Award</b><br>
   MODSIM World 2016 Conference for "Optimizing Voter Wait Times"
 
-* <b>Luther T. Connor Prize in Mathematics</b><br>
+* <b>[Luther T. Connor Prize in Mathematics](https://www.wm.edu/as/mathematics/forstudents/studentawards/index.php)</b><br>
   The College of William and Mary, 2014
   
 * <b>Undergraduate Research Competition, 1st Place</b><br>
