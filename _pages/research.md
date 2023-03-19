@@ -32,7 +32,7 @@ Catherine King, Samatha C. Phillips, and Kathleen M. Carley<br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
 <i>Under Review at Computational and Mathematical Organization Theory</i>
 
-* <b>Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary(https://link.springer.com/article/10.1007/s13278-023-01045-4)</b><br>
+* <b>Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary</b>(https://link.springer.com/article/10.1007/s13278-023-01045-4)<br>
 Catherine King and Kathleen M. Carley <br>
 <i> Social Network Mining and Analysis, 2023</i><br>
 [PDF](https://kingcatherine.github.io/files/DemPrimary.pdf)
