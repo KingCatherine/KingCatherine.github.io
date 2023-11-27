@@ -15,6 +15,12 @@ author_profile: true
 
 Selected works are shown below in reverse chronological order.
 
+Thesis Proposal
+* <b>Effective and Practical Strategies for Combatting Misinformation</b><br>
+Catherine King<br>
+<i>Carnegie Mellon University</i>, 2023<br>
+[PDF](https://kingcatherine.github.io/files/ThesisProposalDec4.pdf)
+
 Tech Reports
 ======
 * <b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
