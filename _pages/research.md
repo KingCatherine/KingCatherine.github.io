@@ -16,6 +16,7 @@ author_profile: true
 Selected works are shown below in reverse chronological order.
 
 Thesis Proposal
+======
 * <b>Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
 <i>Carnegie Mellon University</i>, 2023<br>
