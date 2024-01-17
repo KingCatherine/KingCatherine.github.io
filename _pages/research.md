@@ -20,7 +20,7 @@ Thesis Proposal
 * <b>Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
 <i>Carnegie Mellon University</i>, 2023<br>
-[PDF](https://kingcatherine.github.io/files/ThesisProposalDec4.pdf)
+[PDF](https://kingcatherine.github.io/files/ThesisProposalFeb20.pdf)
 
 Tech Reports
 ======
