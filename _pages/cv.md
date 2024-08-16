@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D. in Societal Computing</b>, 2019-2024 (expected) <br>
+* <b>Ph.D. in Societal Computing</b>, 2019-2025 (expected) <br>
   Carnegie Mellon University, Pittsburgh, PA <br>
   Thesis Topic: Effective countermeasures to misinformation<br>
   Advisor: [Prof. Kathleen Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html)

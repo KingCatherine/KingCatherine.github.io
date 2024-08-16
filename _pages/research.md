@@ -33,7 +33,7 @@ Peer-Reviewed Publications
 ======
 * <b>Registered Report: A path forward on online misinformation mitigation based on current user behavior</b><br>
 Catherine King, Samatha C. Phillips, and Kathleen M. Carley<br>
-<i>Under Review at Scientific Reports</i>
+<i>Stage 1 Pre-Registration Accepted at Scientific Reports</i>
  
 * <b>[Connecting the Domains: An Investigation of Internet Domains found in COVID-19 Conspiracy Tweets](https://link.springer.com/article/10.1007/s10588-023-09379-2)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
@@ -42,7 +42,8 @@ J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
 * <b>[Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary](https://link.springer.com/article/10.1007/s13278-023-01045-4)</b><br>
 Catherine King and Kathleen M. Carley <br>
 <i> Social Network Mining and Analysis, 2023</i><br>
-[PDF](https://kingcatherine.github.io/files/DemPrimary.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-gender-influence.html)[POSTER](https://kingcatherine.github.io/files/King_DemPrimaryPoster.pptx)
+[PDF](https://kingcatherine.github.io/files/DemPrimary.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-gender-influence.html),
+[POSTER](https://kingcatherine.github.io/files/King_DemPrimaryPoster.pptx)
 
 * <b>[Hunting Conspiracy Theories During the COVID-19 Pandemic](https://journals.sagepub.com/doi/pdf/10.1177/20563051211043212)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
