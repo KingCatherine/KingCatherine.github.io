@@ -79,5 +79,16 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
   [PDF](https://kingcatherine.github.io/files/ZooplanktonBEER.pdf)
   
 
-  
-  
+Poster Presentations
+======
+* <b>Leveraging Media Literacy Training to Promote Social Corrections</b> <br>
+  Catherine King and Kathleen M. Carley<br>
+  <i>2024 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>
+  Pittsburgh, PA. September 2024 <br>
+  [Poster](https://kingcatherine.github.io/files/King_OMEN_BRIMS_Poster_2024.pdf)
+
+* <b>Citation Network Analysis of Misinformation Interventions</b> <br>
+  Catherine King, Peter Carragher, and Kathleen M. Carley<br>
+  <i>2023 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>
+  Pittsburgh, PA. September 2023 <br>
+  [Poster](https://kingcatherine.github.io/files/King_CitationNetworkAnalysis_BRIMS_Poster.pdf)
