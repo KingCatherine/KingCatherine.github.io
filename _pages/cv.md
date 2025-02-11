@@ -42,6 +42,10 @@ Work experience
   
 Teaching experience
 ======
+While a PhD student at Carnegie Mellon University, I was a <b>teaching assistant</b> for the following courses:
+* [EPP 19640/S3D 17801/S3D 17685](https://www.cmu.edu/ideas-social-cybersecurity/courses/19-640.html) - Dynamic Network Analysis, Spring 2024
+* [CASOS Summer Institute](https://www.cmu.edu/casos-center/events/summer-institute.html) - Five summer sessions (2020-2024). Topics I taught include network comparison and prediction, one and two-mode metrics, and project OMEN.
+
 While both an undergraduate and a graduate student at the College of William and Mary, I was a <b>teaching assistant</b> for the following courses:
 * [MATH 112](https://www.wm.edu/as/mathematics/undergrad/wheretostart/math112/index.php) - Calculus II, Fall 2014 to Spring 2016
 * [MATH 345/MSCI 648](http://catalog.wm.edu/preview_course_nopop.php?catoid=5&coid=8334) - Introduction to Mathematical Biology, Fall 2013
@@ -51,4 +55,4 @@ While a graduate student at the College of William and Mary, from Fall 2014 to S
 * [MATH 302](https://catalog.wm.edu/preview_course_nopop.php?catoid=7&coid=12598) - Ordinary Differential Equations
 * [MATH 452/552](https://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31212) - Mathematical Statistics
 
-<b>See a more detailed resume [here](https://kingcatherine.github.io/files/ResumeSpring2023.pdf).</b>
+<b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV_Jan2025.pdf).</b>
