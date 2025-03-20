@@ -15,11 +15,16 @@ author_profile: true
 
 Selected works are shown below in reverse chronological order.
 
-Thesis Proposal
+PhD Dissertation Work
 ======
-* <b>Effective and Practical Strategies for Combatting Misinformation</b><br>
+* <b>Draft Dissertation (March 2025): Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
-<i>Carnegie Mellon University</i>, 2023<br>
+<i>Carnegie Mellon University</i>, 2025<br>
+[PDF](https://kingcatherine.github.io/files/Thesis_Dissertation_March2025.pdf)
+
+* <b>Proposal: Effective and Practical Strategies for Combatting Misinformation</b><br>
+Catherine King<br>
+<i>Carnegie Mellon University</i>, 2024<br>
 [PDF](https://kingcatherine.github.io/files/ThesisProposalFeb20.pdf)
 
 Tech Reports
