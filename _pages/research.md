@@ -17,7 +17,7 @@ Selected works are shown below in reverse chronological order.
 
 PhD Dissertation Work
 ======
-* <b>Draft Dissertation (March 2025): Effective and Practical Strategies for Combatting Misinformation</b><br>
+* <b>Dissertation Draft: Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
 <i>Carnegie Mellon University</i>, 2025<br>
 [PDF](https://kingcatherine.github.io/files/Thesis_Dissertation_March2025.pdf)
