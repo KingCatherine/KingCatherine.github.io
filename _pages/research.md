@@ -19,7 +19,7 @@ PhD Dissertation Work
 ======
 * <b>Dissertation Draft: Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
-<i>Carnegie Mellon University</i>, 2025<br>
+<i>Carnegie Mellon University</i>, March 2025<br>
 [PDF](https://kingcatherine.github.io/files/Thesis_Dissertation_March2025.pdf)
 
 * <b>Proposal: Effective and Practical Strategies for Combatting Misinformation</b><br>
@@ -36,9 +36,9 @@ Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 
 Peer-Reviewed Publications
 ======
-* <b>Registered Report: A path forward on online misinformation mitigation based on current user behavior</b><br>
-Catherine King, Samatha C. Phillips, and Kathleen M. Carley<br>
-<i>Stage 1 Pre-Registration Accepted at Scientific Reports</i>
+* <b>[Registered Report: A path forward on online misinformation mitigation based on current user behavior](https://rdcu.be/eedaB)</b><br>
+Catherine King, Samantha C. Phillips, and Kathleen M. Carley<br>
+<i>Scientific Reports, 2025</i>
  
 * <b>[Connecting the Domains: An Investigation of Internet Domains found in COVID-19 Conspiracy Tweets](https://link.springer.com/article/10.1007/s10588-023-09379-2)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
