@@ -15,7 +15,7 @@ author_profile: true
 
 Selected works are shown below in reverse chronological order.
 
-PhD Dissertation Work
+PhD Dissertation
 ======
 * <b>Dissertation Draft: Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
@@ -36,9 +36,14 @@ Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 
 Peer-Reviewed Publications
 ======
+* <b>[Mapping the Scientific Literature on Misinformation Interventions: A Bibliometric Review](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_10)</b><br>
+Catherine King, Peter Carragher, and Kathleen M. Carley<br>
+<i>ICWSM Workshop Proceedings, 2025</i>
+
 * <b>[Registered Report: A path forward on online misinformation mitigation based on current user behavior](https://rdcu.be/eedaB)</b><br>
 Catherine King, Samantha C. Phillips, and Kathleen M. Carley<br>
 <i>Scientific Reports, 2025</i>
+[BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)
  
 * <b>[Connecting the Domains: An Investigation of Internet Domains found in COVID-19 Conspiracy Tweets](https://link.springer.com/article/10.1007/s10588-023-09379-2)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>

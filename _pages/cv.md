@@ -12,15 +12,15 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D. in Societal Computing</b>, 2019-2025 (expected) <br>
+* <b>Ph.D. in Societal Computing</b>, May 2025 <br>
   Carnegie Mellon University, Pittsburgh, PA <br>
   Thesis Topic: Effective countermeasures to misinformation<br>
   Advisor: [Prof. Kathleen M. Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html)
-* <b>M.S. in Computer Science with a Specialization in Computational Operations Research</b>, 2014-2016 <br>
+* <b>M.S. in Computer Science with a Specialization in Computational Operations Research</b>, May 2016 <br>
   The College of William and Mary, Williamsburg, VA <br>
   Capstone Project: "Optimizing voter wait times" [simulation](https://faster-voting.wm.edu) and [paper](https://ieeexplore.ieee.org/document/7489298) <br>
   Advisor: [Prof. Lawrence M. Leemis](http://www.math.wm.edu/~leemis/)
-* <b>B.S. in Mathematics with a minor in Computer Science</b>, 2010-2014 <br>
+* <b>B.S. in Mathematics with a minor in Computer Science</b>, May 2014 <br>
   The College of William and Mary, Williamsburg, VA <br>
   Graduated <i>summa cum laude</i>, with Departmental Honors in Mathematics<br>
   Thesis: ["Nonlinear Models of Zooplankton Communities"](https://scholarworks.wm.edu/honorstheses/71/) <br>
@@ -55,4 +55,4 @@ While a graduate student at the College of William and Mary, from Fall 2014 to S
 * [MATH 302](https://catalog.wm.edu/preview_course_nopop.php?catoid=7&coid=12598) - Ordinary Differential Equations
 * [MATH 452/552](https://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31212) - Mathematical Statistics
 
-<b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV_Jan2025.pdf).</b>
+<b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV_Jun2025.pdf).</b>
