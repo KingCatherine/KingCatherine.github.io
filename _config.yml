@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Catherine King"
 title_separator          : "-"
 name                     : &name "Catherine King"
-description              : &description "Societal Computing PhD Student, Carnegie Mellon University"
+description              : &description "PhD in Societal Computing, Carnegie Mellon University"
 url                      : https://KingCatherine.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KingCatherine/KingCatherine.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Catherine King"
   avatar           : "Catherine King 2.JPG"
-  bio              : "Societal Computing PhD Student, Carnegie Mellon University"
+  bio              : "PhD in Societal Computing, Carnegie Mellon University"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=uNAuiBQAAAAJ&hl=en
   email            : cking2@andrew.cmu.edu
-  researchgate     :  https://www.researchgate.net/profile/Catherine_King19
+  researchgate     : https://www.researchgate.net/profile/Catherine_King19
   uri              :
   bitbucket        :
   codepen          :
