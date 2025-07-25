@@ -7,17 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Featured Publications
-
----
-title: 'Understanding User Behavior in the Fight Against Social Media Misinformation'
-date: 2025-04-18
-tags:
-  - misinformation interventions
-  - social media misinformation
-  - user behavior
-  - survey data
----
+======
+Understanding User Behavior in the Fight Against Social Media Misinformation
 
 As social media companies continue fighting misinformation, research often focuses on platform interventions like fact-checking and moderation. However, little is known about how users respond to misinformation in feeds. Do they ignore, report, or correct it? Understanding these reactions is important because they influence the spread of false content. This study surveyed over 1,000 active American social media users, examining their beliefs, actions, and how their relationships with misinformation posters impact their decisions. We identified three main findings:
 
@@ -32,4 +23,8 @@ User-led interventions received broad political support, unlike stricter measure
 
 [Full paper](https://www.nature.com/articles/s41598-025-93100-7)<br>
 [Full blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)
+
+keywords: misinformation interventions, social media misinformation, user behavior, survey data
+
+<i>2025-04-18</i>
 ---
