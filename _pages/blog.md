@@ -10,10 +10,13 @@ author_profile: true
 ---
 
 ## What We Know and What We Don’t Know About Combatting Misinformation
-<img src="/assets/images/articles_category.png" alt="Interventions Studied" style="width:70%; height:auto; margin-top:1em; margin-bottom:1em;">
-
+<figure style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
+  <img src="/assets/images/articles_category.png" alt="Interventions Studied" style="width:70%; height:auto;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Intervention categories studied in misinformation research over the past 20 years.
+  </figcaption>
+</figure>
 Over the last twenty years, researchers have proposed many strategies to combat misinformation, including fact-checking, media literacy campaigns, and warning labels. But which interventions get studied the most, and which ones actually work? We conducted a bibliometric review of over 450 papers on misinformation strategies at the user, platform, and policy levels. Our main findings: 
-
 <ol>
   <li>
     <b>Most research is on the same few interventions</b><br>
@@ -32,21 +35,18 @@ Over the last twenty years, researchers have proposed many strategies to combat 
     Even among the most researched interventions, results vary. For example, some studies show inoculation games (e.g., Bad News) are effective, but others have found minimal or no long-term effects. This highlights the need for more rigorous, standardized evaluation methods.
   </li>
 </ol>
-
 If we want to counter the spread of misinformation, we need solutions that are not only effective in lab settings but also accepted, usable, and scalable in real-world environments. Future work should focus on interdisciplinary collaboration, investigating understudied intervention types, and assessing interventions not only based on effectiveness but also on user acceptance.
 
 [Full paper](https://workshop-proceedings.icwsm.org/pdf/2025_10.pdf)<br>
-
 keywords: misinformation interventions, scoping review, bibliometrics
 
 <i>2025-07-25</i>
+
 ---
 
 ## Understanding User Behavior in the Fight Against Social Media Misinformation
 <img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation" style="width:60%; height:auto; margin-top:1em; margin-bottom:1em;">
-
 As social media companies continue fighting misinformation, research often focuses on platform interventions like fact-checking and moderation. However, little is known about how users respond to misinformation in feeds. Do they ignore, report, or correct it? Understanding these reactions is important because they influence the spread of false content. This study surveyed over 1,000 active American social media users, examining their beliefs, actions, and how their relationships with misinformation posters impact their decisions. We identified three main findings:
-
 <ol>
   <li>
     <b>There's a large gap in beliefs vs. actions</b><br>
@@ -62,9 +62,7 @@ As social media companies continue fighting misinformation, research often focus
   </li>
 </ol>
 
-[Full paper](https://www.nature.com/articles/s41598-025-93100-7)<br>
-[Full blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)
-
+[Full paper](https://www.nature.com/articles/s41598-025-93100-7), [Full blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)<br>
 keywords: misinformation interventions, social media misinformation, user behavior, survey data
 
 <i>2025-04-18</i>
