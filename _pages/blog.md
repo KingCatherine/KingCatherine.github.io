@@ -1,16 +1,17 @@
 ---
 layout: archive
-title: "Blog"
+title: "Featured Research"
 permalink: /blog/
 author_profile: true
 ---
 
 {% include base_path %}
 
-Understanding User Behavior in the Fight Against Social Media Misinformation
-======
+---
 
-<img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation" style="width:75%; height:auto; margin-top:1em; margin-bottom:1em;">
+### Understanding User Behavior in the Fight Against Social Media Misinformation
+
+<img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation" style="width:50%; height:auto; margin-top:1em; margin-bottom:1em;">
 
 As social media companies continue fighting misinformation, research often focuses on platform interventions like fact-checking and moderation. However, little is known about how users respond to misinformation in feeds. Do they ignore, report, or correct it? Understanding these reactions is important because they influence the spread of false content. This study surveyed over 1,000 active American social media users, examining their beliefs, actions, and how their relationships with misinformation posters impact their decisions. We identified three main findings:
 
