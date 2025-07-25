@@ -19,7 +19,8 @@ PhD Dissertation
 ======
 * <b>Dissertation: Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
-<i>Carnegie Mellon University</i>, May 2025<br>[<i>Under Embargo until November, email me</i>]
+<i>Carnegie Mellon University</i>, May 2025<br>
+[PDF](https://kingcatherine.github.io/files//Thesis_Dissertation_March2025.pdf)[<i>Revised Version Under Embargo until November, email me</i>]
 <!--[PDF](https://kingcatherine.github.io/files//cking2_phd_s3d_2025.pdf)-->
 
 * <b>Proposal: Effective and Practical Strategies for Combatting Misinformation</b><br>
