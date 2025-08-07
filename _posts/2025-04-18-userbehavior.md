@@ -11,6 +11,7 @@ tags:
 excerpt: >-
   <img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation"
        style="width:60%;height:auto;margin-bottom:0.6em;">
+  <br>
   Surveying over 1,000 U.S. social media users, we examine how beliefs and relationships
   shape whether people ignore, report, or correct misinformation. The results reveal a gap
   between values and actions.

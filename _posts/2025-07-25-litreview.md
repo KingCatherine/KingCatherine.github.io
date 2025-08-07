@@ -10,6 +10,7 @@ tags:
 excerpt: >-
   <img src="/assets/images/articles_category.png" alt="Interventions Studied"
        style="width:70%;height:auto;margin-bottom:0.6em;">
+  <br>
   We reviewed over 450 academic papers on misinformation interventions across user, platform,
   and policy levels. Discover what’s been studied the most and the overlooked strategies that
   deserve more attention.
