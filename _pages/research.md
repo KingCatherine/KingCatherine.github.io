@@ -45,8 +45,8 @@ Catherine King, Peter Carragher, and Kathleen M. Carley<br>
 
 * <b>[Registered Report: A path forward on online misinformation mitigation based on current user behavior](https://rdcu.be/eedaB)</b><br>
 Catherine King, Samantha C. Phillips, and Kathleen M. Carley<br>
-<i>Scientific Reports, 2025</i>
-[BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)
+<i>Scientific Reports, 2025</i><br>
+[IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)
  
 * <b>[Connecting the Domains: An Investigation of Internet Domains found in COVID-19 Conspiracy Tweets](https://link.springer.com/article/10.1007/s10588-023-09379-2)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
@@ -55,13 +55,13 @@ J.D. Moffitt, Catherine King, and Kathleen M. Carley<br>
 * <b>[Gender dynamics on Twitter during the 2020 U.S. Democratic presidential primary](https://link.springer.com/article/10.1007/s13278-023-01045-4)</b><br>
 Catherine King and Kathleen M. Carley <br>
 <i> Social Network Mining and Analysis, 2023</i><br>
-[PDF](https://kingcatherine.github.io/files/DemPrimary.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-gender-influence.html),
-[POSTER](https://kingcatherine.github.io/files/King_DemPrimaryPoster.pptx)
+[PDF](https://kingcatherine.github.io/files/DemPrimary.pdf), [IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-gender-influence.html),
+[Poster](https://kingcatherine.github.io/files/King_DemPrimaryPoster.pptx)
 
 * <b>[Hunting Conspiracy Theories During the COVID-19 Pandemic](https://journals.sagepub.com/doi/pdf/10.1177/20563051211043212)</b><br>
 J.D. Moffitt, Catherine King, and Kathleen M. Carley <br>
 <i>Social Media + Society</i>, 2021<br>
-[PDF](https://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf), [BLOG](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html), [POSTER](https://kingcatherine.github.io/files/Moffitt_CASOS_SI_2022_Poster.pptx)
+[PDF](https://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf), [IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html), [Poster](https://kingcatherine.github.io/files/Moffitt_CASOS_SI_2022_Poster.pptx)
 
 * <b>[Deceptive accusations and concealed identities as misinformation campaign strategies](https://link.springer.com/article/10.1007/s10588-021-09328-x)</b><br>
 Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
@@ -72,7 +72,7 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
   Catherine King, Daniele Bellutta, and Kathleen M. Carley <br>
   <i>Proceedings of the 2020 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>
   Virtual conference, October 2020 <br>
-[PDF](https://kingcatherine.github.io/files/Canada_Paper_v3.pdf), [SLIDES](https://kingcatherine.github.io/files/CanadianElection_CaseStudy_BRIMS.pptx)   
+[PDF](https://kingcatherine.github.io/files/Canada_Paper_v3.pdf), [Slides](https://kingcatherine.github.io/files/CanadianElection_CaseStudy_BRIMS.pptx)   
 
 * <b>[System Dynamics for Estimating Suas Operations](https://ieeexplore.ieee.org/document/9004829)</b> <br>
   Catherine King and Stephanie Glasser <br>
