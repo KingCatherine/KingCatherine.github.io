@@ -8,6 +8,12 @@ tags:
   - social media misinformation
   - user behavior
   - survey data
+excerpt: >-
+    <img src="/assets/images/sci-reports-blog.png"
+       alt="Correcting Misinformation"
+       style="width:60%; height:auto; margin-bottom:0.6em;">
+       
+Surveying over 1,000 U.S. social media users, we examine how beliefs and relationships shape whether people ignore, report, or correct misinformation. The results reveal surprising gaps between values and actions.
 ---
 
 <img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation" style="width:60%; height:auto; margin-top:1em; margin-bottom:1em;">
@@ -33,4 +39,5 @@ We identified three main findings:
 </ol>
 
 [Full paper](https://www.nature.com/articles/s41598-025-93100-7)
+
 [CASOS blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)<br>

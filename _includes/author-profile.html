@@ -49,9 +49,12 @@
               {% assign bsky_url = 'https://bsky.app/profile/' | append: bsky_url %}
           {% endunless %}
           <li>
-            <a href="{{ bsky_url }}">
-              <i class="fab fa-fw fa-bluesky icon-pad-right" aria-hidden="true"></i> Bluesky
-            </a>
+              <a href="{{ bsky_url }}">
+                  <!-- Bluesky logo SVG (inline) -->
+                  <svg aria-hidden="true" width="16" height="16" viewBox="0 0 600 530" style="vertical-align:-2px;margin-right:.4em">
+                    <path d="M114 25c52 40 117 119 186 214C369 146 434 65 486 25c43-33 96-49 107-12 8 26-4 79-20 116-29 64-81 118-142 150 70 19 118 63 147 115 22 40 31 97 10 113-29 22-88-9-128-36-45-31-88-73-120-110-32 37-75 79-120 110-40 27-99 58-128 36-21-16-12-73 10-113 29-52 77-96 147-115-61-32-113-86-142-150-16-37-28-90-20-116 11-37 64-21 107 12z" />
+                  </svg> Bluesky
+               </a>
           </li>
       {% endif %}
       {% if author.facebook %}

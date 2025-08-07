@@ -7,6 +7,12 @@ tags:
   - misinformation interventions
   - scoping review
   - bibliometrics
+excerpt: >-
+  <img src="/assets/images/articles_category.png"
+       alt="Interventions Studied"
+       style="width:70%; height:auto; margin-bottom:0.6em;">
+
+We reviewed over 450 academic papers on misinformation interventions across user, platform, and policy levels. Discover what’s been studied most and the overlooked strategies that deserve more attention.
 ---
 
 <figure style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
@@ -16,7 +22,7 @@ tags:
   </figcaption>
 </figure>
 
-Over the last twenty years, researchers have proposed many strategies to combat misinformation, including fact-checking, media literacy campaigns, and warning labels. But which interventions get studied the most, and which ones actually work? We conducted a bibliometric review of over 450 papers on misinformation strategies at the user, platform, and policy levels.
+Over the last twenty years, researchers have proposed many strategies to combat misinformation, including fact-checking, media literacy campaigns, and warning labels. But which interventions get studied the most, and which ones actually work? We conducted a bibliometric review of over 450 papers on misinformation strategies at the user, platform, and policy levels. 
 
 <!-- more -->
 
