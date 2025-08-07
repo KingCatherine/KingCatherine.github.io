@@ -9,11 +9,11 @@ tags:
   - user behavior
   - survey data
 excerpt: >-
-    <img src="/assets/images/sci-reports-blog.png"
-       alt="Correcting Misinformation"
-       style="width:60%; height:auto; margin-bottom:0.6em;">
-       
-Surveying over 1,000 U.S. social media users, we examine how beliefs and relationships shape whether people ignore, report, or correct misinformation. The results reveal surprising gaps between values and actions.
+  <img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation"
+       style="width:60%;height:auto;margin-bottom:0.6em;">
+  Surveying over 1,000 U.S. social media users, we examine how beliefs and relationships
+  shape whether people ignore, report, or correct misinformation. The results reveal a gap
+  between values and actions.
 ---
 
 <img src="/assets/images/sci-reports-blog.png" alt="Correcting Misinformation" style="width:60%; height:auto; margin-top:1em; margin-bottom:1em;">

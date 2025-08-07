@@ -8,11 +8,11 @@ tags:
   - scoping review
   - bibliometrics
 excerpt: >-
-  <img src="/assets/images/articles_category.png"
-       alt="Interventions Studied"
-       style="width:70%; height:auto; margin-bottom:0.6em;">
-
-We reviewed over 450 academic papers on misinformation interventions across user, platform, and policy levels. Discover what’s been studied most and the overlooked strategies that deserve more attention.
+  <img src="/assets/images/articles_category.png" alt="Interventions Studied"
+       style="width:70%;height:auto;margin-bottom:0.6em;">
+  We reviewed over 450 academic papers on misinformation interventions across user, platform,
+  and policy levels. Discover what’s been studied the most and the overlooked strategies that
+  deserve more attention.
 ---
 
 <figure style="text-align: center; margin-top: 1em; margin-bottom: 1em;">

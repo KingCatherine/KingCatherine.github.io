@@ -14,7 +14,7 @@ Education
 ======
 * <b>Ph.D. in Societal Computing</b>, 2025 <br>
   Carnegie Mellon University, Pittsburgh, PA <br>
-  Thesis Topic: Effective countermeasures to misinformation<br>
+  Dissertation: Effective and Practical Strategies for Combatting Misinformation<br>
   Advisor: [Prof. Kathleen M. Carley](http://www.casos.cs.cmu.edu/bios/carley/carley.html)
 * <b>M.S. in Computer Science with a Specialization in Computational Operations Research</b>, 2016 <br>
   The College of William and Mary, Williamsburg, VA <br>
