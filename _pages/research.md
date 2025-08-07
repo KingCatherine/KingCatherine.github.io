@@ -15,8 +15,7 @@ author_profile: true
 
 Selected works are shown below in reverse chronological order.
 
-PhD Dissertation
-======
+## PhD Dissertation
 * <b>Dissertation: Effective and Practical Strategies for Combatting Misinformation</b><br>
 Catherine King<br>
 <i>Carnegie Mellon University</i>, May 2025<br>
@@ -29,15 +28,13 @@ Catherine King<br>
 <i>Carnegie Mellon University</i>, 2024<br>
 [PDF](https://kingcatherine.github.io/files/ThesisProposalFeb20.pdf)
 
-Tech Reports
-======
+## Tech Reports
 * <b>Project OMEN: Designing a Training Game to Fight Misinformation on Social Media</b><br>
 Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 <i>CMU Tech Report</i>, 2021<br>
 [PDF](https://kingcatherine.github.io/files/CMU-ISR-21-110.pdf)
 
-Peer-Reviewed Publications
-======
+## Peer-Reviewed Publications
 * <b>[Mapping the Scientific Literature on Misinformation Interventions: A Bibliometric Review](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_10)</b><br>
 Catherine King, Peter Carragher, and Kathleen M. Carley<br>
 <i>ICWSM Workshop Proceedings, 2025</i>
@@ -91,8 +88,7 @@ Daniele Bellutta, Catherine King, and Kathleen M. Carley <br>
   [PDF](https://kingcatherine.github.io/files/ZooplanktonBEER.pdf)
   
 
-Poster Presentations
-======
+## Poster Presentations
 * <b>Leveraging Media Literacy Training to Promote Social Corrections</b> <br>
   Catherine King and Kathleen M. Carley<br>
   <i>2024 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation</i> <br>

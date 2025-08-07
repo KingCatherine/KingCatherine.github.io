@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+## Education
 * <b>Ph.D. in Societal Computing</b>, 2025 <br>
   Carnegie Mellon University, Pittsburgh, PA <br>
   Dissertation: Effective and Practical Strategies for Combatting Misinformation<br>
@@ -26,8 +25,7 @@ Education
   Thesis: ["Nonlinear Models of Zooplankton Communities"](https://scholarworks.wm.edu/honorstheses/71/) <br>
   Advisor: [Prof. Sarah Day](http://www.math.wm.edu/~sday/) and [Prof. Drew LaMar](https://www.wm.edu/as/cams/mathematical-biology/faculty/lamar-md.php)
 
-Work experience
-======
+## Work experience
 * <b>Data Scientist</b>, August 2018 to January 2020 <br>
   MITRE, McLean, VA
 
@@ -40,8 +38,7 @@ Work experience
 * <b>Research Assistant</b>, January 2012 - August 2014 <br>
   The College of William and Mary, Williamsburg, VA
   
-Teaching experience
-======
+## Teaching experience
 While a PhD student at Carnegie Mellon University, I was a <b>teaching assistant</b> for the following courses:
 * [EPP 19640/S3D 17801/S3D 17685](https://www.cmu.edu/ideas-social-cybersecurity/courses/19-640.html) - Dynamic Network Analysis, Spring 2024
 * [CASOS Summer Institute](https://www.cmu.edu/casos-center/events/summer-institute.html) - Five summer sessions (2020-2024). Topics I taught include network comparison and prediction, one and two-mode metrics, and project OMEN.
@@ -55,8 +52,7 @@ While a graduate student at the College of William and Mary, from Fall 2014 to S
 * [MATH 302](https://catalog.wm.edu/preview_course_nopop.php?catoid=7&coid=12598) - Ordinary Differential Equations
 * [MATH 452/552](https://catalog.wm.edu/preview_course_nopop.php?catoid=12&coid=31212) - Mathematical Statistics
 
-Awards
-======
+## Awards
 * <b>[SBP-BRiMS 2020 Best Paper Award](http://sbp-brims.org/2021/priorwinners/)</b><br>
 Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections,” 
 [PDF](https://kingcatherine.github.io/files/Canada_Paper_v3.pdf)

@@ -24,7 +24,7 @@ Before CMU, I earned a BS in [Mathematics](https://www.wm.edu/as/mathematics/) a
 {% for post in site.posts limit:2 %}
   {% include archive-single.html %}
 {% endfor %}
-<p><a href="/blog/">View all research →</a></p>
+<p><a href="/blog/">View all research blog posts →</a></p>
 
 ---
 
