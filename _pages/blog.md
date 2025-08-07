@@ -1,7 +1,10 @@
 ---
 title: "Featured Research"
 permalink: /blog/
-layout: posts
+layout: archive
 author_profile: true
-show_excerpts: true
 ---
+{% include base_path %}
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
