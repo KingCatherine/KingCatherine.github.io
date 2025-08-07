@@ -35,6 +35,10 @@ Catherine King, Christine Sowa Lepird, and Kathleen M. Carley <br>
 [PDF](https://kingcatherine.github.io/files/CMU-ISR-21-110.pdf)
 
 ## Peer-Reviewed Publications
+* <b>Public support for misinformation interventions depends on perceived fairness, effectiveness, and intrusiveness</b><br>
+Catherine King, Samantha C. Phillips, and Kathleen M. Carley<br>
+<i>To be Submitted to Social Media + Society</i>
+
 * <b>[Mapping the Scientific Literature on Misinformation Interventions: A Bibliometric Review](https://workshop-proceedings.icwsm.org/abstract.php?id=2025_10)</b><br>
 Catherine King, Peter Carragher, and Kathleen M. Carley<br>
 <i>ICWSM Workshop Proceedings, 2025</i>
