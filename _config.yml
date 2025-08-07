@@ -77,6 +77,11 @@ analytics:
   google:
     tracking_id          :
 
+# Blog display settings
+show_excerpts: true
+excerpt_separator: "<!-- more -->"
+paginate: 10
+paginate_path: "/blog/page:num/"
 
 # Site Author
 author:
@@ -110,7 +115,7 @@ author:
   steam            :
   tumblr           :
   twitter          : CatherineKing77
-  bluesky	   : "https://bsky.app/profile/kingcatherine.bsky.social"
+  bluesky	       : "https://bsky.app/profile/kingcatherine.bsky.social"
   vine             :
   weibo            :
   xing             :

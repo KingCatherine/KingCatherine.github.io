@@ -15,4 +15,4 @@ Before coming to Carnegie Mellon University, I earned a BS in [Mathematics](http
 
 
 
-<i>Last Updated: July 25th, 2025</i>
+<i>Last Updated: August 7th, 2025</i>
