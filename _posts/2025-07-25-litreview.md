@@ -12,8 +12,8 @@ excerpt: >-
        style="width:70%;height:auto;margin-bottom:0.6em;">
   <br>
   We reviewed over 450 academic papers on misinformation interventions across user, platform,
-  and policy levels. Discover what’s been studied the most and the overlooked strategies that
-  deserve more attention.
+  and policy levels. Using bibliometric analysis, we discovered what’s been studied the most 
+  and the overlooked strategies that deserve more attention.
 ---
 
 <figure style="text-align: center; margin-top: 1em; margin-bottom: 1em;">
