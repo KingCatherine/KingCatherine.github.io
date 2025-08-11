@@ -1,9 +1,7 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
-header: false
 ---
 
 ## PhD Dissertation
