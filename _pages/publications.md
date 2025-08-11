@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header: false
 ---
 
 ## PhD Dissertation
@@ -20,7 +21,6 @@ Carnegie Mellon University · 2024
 **[PDF](https://kingcatherine.github.io/files/ThesisProposalFeb20.pdf)**
 
 ---
-
 ## Tech Reports
 
 **Project OMEN: Designing a Training Game to Fight Misinformation on Social Media**<br>
@@ -29,7 +29,6 @@ Carnegie Mellon University · Institute for Software Research · 2021
 **[PDF](https://kingcatherine.github.io/files/CMU-ISR-21-110.pdf)**
 
 ---
-
 ## Peer-reviewed Publications
 Selected works are shown below in reverse chronological order.
 
@@ -109,7 +108,6 @@ Proceedings of the Sixth International Symposium on Biomathematics and Ecology E
 ---
 
 ## Poster Presentations
-
 **Leveraging Media Literacy Training to Promote Social Corrections**<br>
 *Catherine King, Kathleen M. Carley*  
 2024 International Conference on Social Computing, Behavioral-Cultural Modeling & Prediction and Behavior Representation in Modeling and Simulation (SBP-BRiMS) · Pittsburgh, PA · September 2024  
