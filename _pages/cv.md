@@ -65,4 +65,4 @@ Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About L
 * <b>Undergraduate Research Competition, 1st Place</b><br>
   International Symposium on Biomathematics and Ecology Education and Research Conference, 2013
   
-<b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV_July2025.pdf).</b>
+<b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV.pdf).</b>
