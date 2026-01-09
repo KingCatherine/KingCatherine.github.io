@@ -9,7 +9,8 @@ I recently earned my PhD in Societal Computing from Carnegie Mellon University's
 
 My work bridges disciplines, and I use a variety of computational social science methods including social network analysis, survey analysis, and user studies.
 
-[Download my CV](https://kingcatherine.github.io/files/CatherineKingCV.pdf){: .btn .btn--primary }[Download my Dissertation](https://kingcatherine.github.io/files/cking2_phd_s3d_2025.pdf){: .btn .btn--primary }
+[Download my CV](https://kingcatherine.github.io/files/CatherineKingCV.pdf){: .btn .btn--primary } 
+[Download my Dissertation](https://kingcatherine.github.io/files/cking2_phd_s3d_2025.pdf){: .btn .btn--primary }
 
 
 
