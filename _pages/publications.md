@@ -8,8 +8,8 @@ author_profile: true
 
 **Dissertation: Effective and Practical Strategies for Combatting Misinformation**<br>
 *Catherine King*  
-Carnegie Mellon University · Revised version under embargo until November (email me) · 2025  
-[March Draft PDF](https://kingcatherine.github.io/files/Thesis_Dissertation_March2025.pdf)
+Carnegie Mellon University · 2025  
+[PDF](https://kingcatherine.github.io/files/cking2_phd_s3d_2025.pdf)
 
 ---
 

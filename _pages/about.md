@@ -9,11 +9,12 @@ I recently earned my PhD in Societal Computing from Carnegie Mellon University's
 
 My work bridges disciplines, and I use a variety of computational social science methods including social network analysis, survey analysis, and user studies.
 
-[Download my CV](https://kingcatherine.github.io/files/CatherineKingCV.pdf){: .btn .btn--primary }
+[Download my CV](https://kingcatherine.github.io/files/CatherineKingCV.pdf){: .btn .btn--primary }[Download my Dissertation](https://kingcatherine.github.io/files/cking2_phd_s3d_2025.pdf){: .btn .btn--primary }
+
 
 
 ## About Me
-My [dissertation](https://kingcatherine.github.io/files//Thesis_Dissertation_March2025.pdf) focused on developing effective and practical countermeasures to misinformation. While there has been substantial work on analyzing the effectiveness of various interventions, little work has been conducted on **user acceptance** — a critical component for implementation.
+My [dissertation](https://kingcatherine.github.io/files//cking2_phd_s3d_2025.pdf) focused on developing effective and practical countermeasures to misinformation. While there has been substantial work on analyzing the effectiveness of various interventions, little work has been conducted on **user acceptance** — a critical component for implementation.
 
 I studied interventions ranging from individual-level actions (e.g., reporting misinformation on social media) to platform or government-level policies. In the course of my work, I identified understudied strategies, evaluated user behavior and perceptions, and developed evaluation frameworks that consider both effectiveness and user acceptance.
 
