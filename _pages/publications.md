@@ -30,15 +30,17 @@ Carnegie Mellon University · Institute for Software Research · 2021
 ## Peer-reviewed Publications
 Selected works are shown below in reverse chronological order.
 
+**[Public Support for Misinformation Interventions Depends on Perceived Fairness, Effectiveness, and Intrusiveness](https://doi.org/10.54501/jots.v3i2.267)**<br>
+*Catherine King, Samantha C. Phillips, and Kathleen M. Carley*  
+Journal of Online Trust and Safety, 3(2) · 2026  
+[Preprint](https://doi.org/10.48550/arXiv.2508.05849) · [Preprint Code & Data](https://osf.io/b2yjt/)
+
+---
+
 **[Promoting Social Corrections: A Media Literacy Intervention for Misinformation on Social Media](https://link.springer.com/chapter/10.1007/978-3-032-07715-8_22)**<br>
 *Catherine King and Kathleen M. Carley*  
 SBP-BRiMS Conference Proceedings· 2025  
----
-
-**Public support for misinformation interventions depends on perceived fairness, effectiveness, and intrusiveness**<br>
-*Catherine King, Samantha C. Phillips, and Kathleen M. Carley*  
-To be submitted · Social Media + Society · 2025  
-[Preprint](https://doi.org/10.48550/arXiv.2508.05849) · [Code & Data](https://osf.io/b2yjt/)
+[IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-teach-counter-misinfo-spotted.html) 
 
 ---
 
