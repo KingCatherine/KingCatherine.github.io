@@ -6,7 +6,7 @@ author_profile: true
 <style>.page__title{display:none;margin:0}</style>
 ## PhD Dissertation
 
-**Dissertation: Effective and Practical Strategies for Combatting Misinformation**<br>
+**[Dissertation: Effective and Practical Strategies for Combatting Misinformation](https://doi.org/10.1184/R1/29316179)**<br>
 *Catherine King*  
 Carnegie Mellon University · 2025  
 [PDF](https://kingcatherine.github.io/files/cking2_phd_s3d_2025.pdf)
@@ -33,7 +33,7 @@ Selected works are shown below in reverse chronological order.
 **[Public Support for Misinformation Interventions Depends on Perceived Fairness, Effectiveness, and Intrusiveness](https://doi.org/10.54501/jots.v3i2.267)**<br>
 *Catherine King, Samantha C. Phillips, and Kathleen M. Carley*  
 Journal of Online Trust and Safety, 3(2) · 2026  
-[Preprint](https://doi.org/10.48550/arXiv.2508.05849) · [Preprint Code & Data](https://osf.io/b2yjt/)
+[Published Paper](https://tsjournal.org/index.php/jots/article/view/267/95) · [2025 Preprint](https://doi.org/10.48550/arXiv.2508.05849) · [Preprint Code & Data](https://osf.io/b2yjt/)
 
 ---
 
