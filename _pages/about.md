@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently earned my PhD in Societal Computing from Carnegie Mellon University's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](http://casos.cs.cmu.edu/bios/carley/carley.html). I study how people encounter and respond to social media misinformation, and how we can design interventions that are not only effective, but also accepted and adopted in real-world settings.
+I recently earned my PhD in Societal Computing from Carnegie Mellon University's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). I study how people encounter and respond to social media misinformation, and how we can design interventions that are not only effective, but also accepted and adopted in real-world settings.
 
 My work bridges disciplines, and I use a variety of computational social science methods including social network analysis, survey analysis, and user studies.
 
@@ -19,7 +19,7 @@ My [dissertation](https://kingcatherine.github.io/files//cking2_phd_s3d_2025.pdf
 
 I studied interventions ranging from individual-level actions (e.g., reporting misinformation on social media) to platform or government-level policies. In the course of my work, I identified understudied strategies, evaluated user behavior and perceptions, and developed evaluation frameworks that consider both effectiveness and user acceptance.
 
-Before CMU, I earned a BS in [Mathematics](https://www.wm.edu/as/mathematics/) and an MS in Computational Operations Research at the College of William and Mary. My undergraduate thesis, ["Nonlinear Models of Zooplankton Communities"](https://scholarworks.wm.edu/honorstheses/71/), was completed with [Prof. Sarah Day](http://www.math.wm.edu/~sday/) and [Prof. Drew LaMar](https://www.wm.edu/as/cams/mathematical-biology/faculty/lamar-md.php). For my Master’s capstone, I worked with [Prof. Lawrence M. Leemis](http://www.math.wm.edu/~leemis/) to develop a [simulation](https://faster-voting.wm.edu) that optimized resource allocation to lower voting times on Election Day. After my Master's, I worked in industry (including as a Data Scientist at [MITRE](https://www.mitre.org)) before pursuing my PhD.
+Before CMU, I earned a BS in [Mathematics](https://www.wm.edu/as/mathematics/) and an MS in Computational Operations Research at the College of William and Mary. My undergraduate thesis, ["Nonlinear Models of Zooplankton Communities"](https://scholarworks.wm.edu/honorstheses/71/), was completed with [Prof. Sarah Day](http://www.math.wm.edu/~sday/) and [Prof. Drew LaMar](https://www.wm.edu/as/biology/people/faculty/lamar_d.php). For my Master’s capstone, I worked with [Prof. Lawrence M. Leemis](http://www.math.wm.edu/~leemis/) to develop a [simulation](https://faster-voting.wm.edu) that optimized resource allocation to lower voting times on Election Day. After my Master's, I worked in industry (including as a Data Scientist at [MITRE](https://www.mitre.org)) before pursuing my PhD.
 
 
 ## Featured Research
