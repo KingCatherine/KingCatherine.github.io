@@ -39,8 +39,6 @@ We identified three main findings:
   </li>
 </ol>
 
-Image Credit: Photo by [Sasun Bughdaryan](https://unsplash.com/@sasun1990?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/statue-of-justice-holding-scales-against-blue-background-zbQ5UaREHx4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 [Full paper](https://www.nature.com/articles/s41598-025-93100-7)
 
 [IDeaS blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)<br>

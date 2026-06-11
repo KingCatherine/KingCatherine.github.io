@@ -40,6 +40,8 @@ This research investigates how everyday people feel about misinformation on soci
 
 These findings indicate that platforms and policymakers should focus on creating fair, transparent measures that enhance user agency, such as warning labels instead of removing content without explanation. Social media platforms should also improve how they communicate the effectiveness of their interventions to users by using public dashboards or educational tools. Improving communication, education, and transparency could help build broader support for these measures and encourage their more consistent use. 
 
+Image Credit: Photo by [Sasun Bughdaryan](https://unsplash.com/@sasun1990?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/statue-of-justice-holding-scales-against-blue-background-zbQ5UaREHx4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 [Full paper](https://tsjournal.org/index.php/jots/article/view/267)
 
 [IDeaS blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-fairness_effectiveness_intrusiveness.html)<br>
