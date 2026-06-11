@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently earned my PhD in Societal Computing from Carnegie Mellon University's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). I study how people encounter and respond to social media misinformation, and how we can design interventions that are not only effective, but also accepted and adopted in real-world settings.
+I am postdoctoral fellow in policy in the School of Computer Science at Carnegie Mellon University, working at the intersection of technology, AI, and public policy. I recently earned my PhD in Societal Computing from Carnegie Mellon University's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). 
 
 My work bridges disciplines, and I use a variety of computational social science methods including social network analysis, survey analysis, and user studies.
 

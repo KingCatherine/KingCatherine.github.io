@@ -33,7 +33,7 @@ Selected works are shown below in reverse chronological order.
 **[Public Support for Misinformation Interventions Depends on Perceived Fairness, Effectiveness, and Intrusiveness](https://doi.org/10.54501/jots.v3i2.267)**<br>
 *Catherine King, Samantha C. Phillips, and Kathleen M. Carley*  
 Journal of Online Trust and Safety, 3(2) · 2026  
-[Published Paper](https://tsjournal.org/index.php/jots/article/view/267/95) · [2025 Preprint](https://doi.org/10.48550/arXiv.2508.05849) · [Preprint Code & Data](https://osf.io/b2yjt/)
+[IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-fairness_effectiveness_intrusiveness.html) · [Code](https://figshare.com/s/e31fd9581a070a893c1a) · [Data](https://figshare.com/s/aa7e43035af456300351) · [Materials](https://figshare.com/s/0edbc00f5e80becfc2ae)
 
 ---
 

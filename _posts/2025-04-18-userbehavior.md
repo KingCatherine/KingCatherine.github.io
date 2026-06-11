@@ -30,7 +30,7 @@ We identified three main findings:
     One of our key findings was the evidence of hypocrisy between what participants believe and what they do. Respondents thought others should put more effort into correcting misinformation than they claimed to do themselves. This gap shows that although many people value combatting misinformation, they don't always follow through, possibly assuming others will. It also suggests that reducing barriers like time or confidence could encourage more active countering on social media. 
   </li>
   <li>
-    <b>People say they are more Likely to counter closer contacts</b><br>
+    <b>People say they are more likely to counter closer contacts</b><br>
     We observed a social proximity effect: people are more likely to intervene when misinformation comes from friends or family than acquaintances or strangers. This may be because they feel more comfortable confronting close contacts or have a stronger sense of responsibility to act when close contacts spread misinformation.
   </li>
   <li>
@@ -39,6 +39,8 @@ We identified three main findings:
   </li>
 </ol>
 
+Image Credit: Photo by [Sasun Bughdaryan](https://unsplash.com/@sasun1990?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/statue-of-justice-holding-scales-against-blue-background-zbQ5UaREHx4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+
 [Full paper](https://www.nature.com/articles/s41598-025-93100-7)
 
-[CASOS blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)<br>
+[IDeaS blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html)<br>
