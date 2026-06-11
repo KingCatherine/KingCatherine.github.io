@@ -15,7 +15,7 @@ excerpt: >-
   When it comes to fighting misinformation on social media, public support is not guaranteed. New research from a survey of over 1,000 US social media users indicates that how fair an intervention feels matters more to Americans than whether they believe it will be effective.
 ---
 
-<img src="/assets/images/jots-blog.png" alt="Statue of justice holding scales" style="width:60%; height:auto; margin-top:1em; margin-bottom:1em;">
+<img src="/assets/images/jots-blog.jpg" alt="Statue of justice holding scales" style="width:60%; height:auto; margin-top:1em; margin-bottom:1em;">
 
 Recent research on interventions to combat misinformation spread on social media, such as content or account moderation tools, typically assesses their effectiveness and sometimes looks at their popularity among users. However, little work has explored the factors influencing public support. Since social media platforms are unlikely to voluntarily implement measures that may drive away users, understanding why people either support or oppose these interventions is essential. 
 
