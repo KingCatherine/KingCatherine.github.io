@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am postdoctoral fellow in policy in the School of Computer Science at Carnegie Mellon University, working at the intersection of technology, AI, and public policy. I recently earned my PhD in Societal Computing from Carnegie Mellon University's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). 
+I am postdoctoral fellow in policy in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, working at the intersection of technology, AI, and public policy. I recently earned my PhD in Societal Computing from CMU's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). 
 
 My work bridges disciplines, and I use a variety of computational social science methods including social network analysis, survey analysis, and user studies.
 
@@ -17,7 +17,7 @@ My work bridges disciplines, and I use a variety of computational social science
 ## About Me
 My [dissertation](https://kingcatherine.github.io/files//cking2_phd_s3d_2025.pdf) focused on developing effective and practical countermeasures to misinformation. While there has been substantial work on analyzing the effectiveness of various interventions, little work has been conducted on **user acceptance** — a critical component for implementation.
 
-I studied interventions ranging from individual-level actions (e.g., reporting misinformation on social media) to platform or government-level policies. In the course of my work, I identified understudied strategies, evaluated user behavior and perceptions, and developed evaluation frameworks that consider both effectiveness and user acceptance.
+I studied interventions ranging from individual-level actions (e.g., reporting misinformation on social media) to platform or government-level policies. In the course of my work, I identified understudied strategies, evaluated user behavior and perceptions, and developed evaluation frameworks that consider both effectiveness and user acceptance. Some of my [research](https://www.psychologytoday.com/za/blog/misinformation-desk/202510/you-are-the-fact-checker-youre-waiting-for) has been highlighted in Psychology Today, a popular science magazine. 
 
 Before CMU, I earned a BS in [Mathematics](https://www.wm.edu/as/mathematics/) and an MS in Computational Operations Research at the College of William and Mary. My undergraduate thesis, ["Nonlinear Models of Zooplankton Communities"](https://scholarworks.wm.edu/honorstheses/71/), was completed with [Prof. Sarah Day](http://www.math.wm.edu/~sday/) and [Prof. Drew LaMar](https://www.wm.edu/as/biology/people/faculty/lamar_d.php). For my Master’s capstone, I worked with [Prof. Lawrence M. Leemis](http://www.math.wm.edu/~leemis/) to develop a [simulation](https://faster-voting.wm.edu) that optimized resource allocation to lower voting times on Election Day. After my Master's, I worked in industry (including as a Data Scientist at [MITRE](https://www.mitre.org)) before pursuing my PhD.
 

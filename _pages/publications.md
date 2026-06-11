@@ -51,7 +51,7 @@ ICWSM Workshop Proceedings · 2025
 
 ---
 
-**[Registered Report: A path forward on online misinformation mitigation based on current user behavior](https://rdcu.be/eedaB)**<br>
+**[A path forward on online misinformation mitigation based on current user behavior](https://rdcu.be/eedaB)**<br>
 *Catherine King, Samantha C. Phillips, and Kathleen M. Carley*  
 Scientific Reports · 2025  
 [IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-understanding-user.html) · [Code](https://doi.org/10.1184/R1/27264780) · [Data](https://doi.org/10.1184/R1/27264786) · [Materials](https://doi.org/10.1184/R1/27264813)
