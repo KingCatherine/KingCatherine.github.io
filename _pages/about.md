@@ -5,7 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am postdoctoral fellow in policy in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, working at the intersection of technology, AI, and public policy. I recently earned my PhD in Societal Computing from CMU's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). 
+I am a postdoctoral fellow in policy in the [School of Computer Science](https://www.cs.cmu.edu) at Carnegie Mellon University, working at the intersection of technology, AI, and public policy. I recently earned my PhD in Societal Computing from CMU's [Software and Societal Systems Department](https://sc.cs.cmu.edu), advised by [Prof. Kathleen M. Carley](https://www.cmu.edu/casos-center/people/carley.html). 
 
 My work bridges disciplines, and I use a variety of computational social science methods including social network analysis, survey analysis, and user studies.
 
