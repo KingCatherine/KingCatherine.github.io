@@ -127,7 +127,8 @@ Proceedings of the Sixth International Symposium on Biomathematics and Ecology E
 ## Presentations
 
 **Panel: Technology, Elections, and Democratic Resilience**<br>
-*Moderator: Catherine King, Panelists: Dr. Todd Helmus (Meridian Influence Group, formerly RAND), Prof. Jennifer Golbeck (UMD), and Prof. Michael Shamos (CMU)*  
+*Moderator: Catherine King*<br>
+*Panelists: Dr. Todd Helmus (Meridian Influence Group, formerly RAND), Prof. Jennifer Golbeck (UMD), and Prof. Michael Shamos (CMU)*  
 IDeaS and SBP-BRiMS Conferences · Pittsburgh, PA · October 2026
 
 ---
@@ -135,7 +136,6 @@ IDeaS and SBP-BRiMS Conferences · Pittsburgh, PA · October 2026
 **Working Paper: Governing AI Overviews in Web Search: A Comparative Policy Analysis**<br>
 *Catherine King, Marie M. McCauley, Evan M. Williams, and Kathleen M. Carley*  
 IDeaS Conference · Pittsburgh, PA · October 2026  
-[Poster](https://kingcatherine.github.io/files/King_OMEN_BRIMS_Poster_2024.pdf)
 
 ---
 
