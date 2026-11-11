@@ -27,9 +27,9 @@ redirect_from:
 
 ## Research and Professional Experience
 * <b>Postdoctoral Fellow in Policy, Special Faculty</b>, 2025 - present <br>
-  MITRE, McLean, VA
+  Carnegie Mellon University, Pittsburgh, PA
 * <b>PhD Research Assistant</b>, 2019 - 2025 <br>
-  MITRE, McLean, VA
+  Carnegie Mellon University, Pittsburgh, PA
 * <b>Data Scientist</b>, 2018 - 2020 <br>
   MITRE, McLean, VA
 * <b>IT/Modeling Analyst</b>, 2016 - 2018 <br>
@@ -55,7 +55,7 @@ At William & Mary, I was a <b>grader</b> for the following [courses](https://cat
 * <b>Mathematical Statistics</b> (MATH 452/552)
 
 ## Awards
-* <b>SBP-BRiMS 2026 Outstanding Service Award</b><br>
+* <b>IDeaS 2026 Outstanding Service Award</b><br>
 * <b>[SBP-BRiMS 2020 Best Paper Award](https://www.cmu.edu/ideas-social-cybersecurity/news/awards.html)</b><br>
 Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About Lying on Social Media: A Case Study of the 2019 Canadian Elections,” 
 [PDF](https://kingcatherine.github.io/files/Canada_Paper_v3.pdf)
@@ -71,10 +71,8 @@ Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About L
 ## Service
 * <b>Guest Co-Editor (forthcoming): [Governing the Digital Age: AI, Platforms, and Online Harms Policy](https://link.springer.com/collections/aejhahchjj)</b><br>
 Special issue of <i>Computational and Mathematical Organization Theory</i>
-
 * <b>Peer Reviewer</b><br>
 Nature Human Behaviour, Scientific Reports, New Media & Society, JMIR Infodemiology, Social Media + Society, Policy Studies Journal, Behavioral Sciences of Terrorism and Political Aggression, SBP-BRiMS, and IDeaS Conference 
-
 * <b>Election Judge</b><br>
 Head poll worker at a Pittsburgh election day precinct (formerly 10-12, now 24-05)
 Tasked with managing election day operations, supervising poll workers, and certifying the precinct’s results

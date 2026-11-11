@@ -72,7 +72,7 @@ Scientific Reports · 2025
 
 **[Connecting the Domains: An Investigation of Internet Domains found in COVID-19 Conspiracy Tweets](https://link.springer.com/article/10.1007/s10588-023-09379-2)**<br>
 *J.D. Moffitt, Catherine King, and Kathleen M. Carley*  
-Computational and Mathematical Organization Theory · 2023
+Computational and Mathematical Organization Theory · 2024
 
 ---
 
@@ -83,10 +83,10 @@ Social Network Analysis and Mining · 2023
 
 ---
 
-**[Hunting Conspiracy Theories During the COVID-19 Pandemic](https://journals.sagepub.com/doi/pdf/10.1177/20563051211043212)**<br>
+**[Hunting Conspiracy Theories During the COVID-19 Pandemic](https://journals.sagepub.com/doi/10.1177/20563051211043212)**<br>
 *J.D. Moffitt, Catherine King, and Kathleen M. Carley*  
 Social Media + Society · 2021  
-[PDF](https://kingcatherine.github.io/files/FINAL_Hunting_Conspiracy_20210810.pdf) · [IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html) · [Poster](https://kingcatherine.github.io/files/Moffitt_CASOS_SI_2022_Poster.pptx)
+[PDF](https://kingcatherine.github.io/files/HuntingConspiracyTheories.pdf) · [IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-moffitt-hunting-conspiracy-theories.html) · [Poster](https://kingcatherine.github.io/files/Moffitt_CASOS_SI_2022_Poster.pptx)
 
 ---
 
@@ -105,7 +105,7 @@ SBP-BRiMS Conference Proceedings · 2020
 ---
 
 **[System Dynamics for Estimating SUAS Operations](https://ieeexplore.ieee.org/document/9004829)**<br>
-*Catherine King and Stephanie Glasser*  
+*Stephanie Glasser and Catherine King*  
 Proceedings of the 2019 Winter Simulation Conference (WSC) · 2019
 
 ---
@@ -124,15 +124,29 @@ Proceedings of the Sixth International Symposium on Biomathematics and Ecology E
 
 ---
 
-## Poster Presentations
-**Leveraging Media Literacy Training to Promote Social Corrections**<br>
+## Presentations
+
+**Panel: Technology, Elections, and Democratic Resilience**<br>
+*Moderator: Catherine King, Panelists: Dr. Todd Helmus (Meridian Influence Group, formerly RAND), Prof. Jennifer Golbeck (UMD), and Prof. Michael Shamos (CMU)*  
+IDeaS and SBP-BRiMS Conferences · Pittsburgh, PA · October 2026
+
+---
+
+**Working Paper: Governing AI Overviews in Web Search: A Comparative Policy Analysis**<br>
+*Catherine King, Marie M. McCauley, Evan M. Williams, and Kathleen M. Carley*  
+IDeaS Conference · Pittsburgh, PA · October 2026  
+[Poster](https://kingcatherine.github.io/files/King_OMEN_BRIMS_Poster_2024.pdf)
+
+---
+
+**Poster: Leveraging Media Literacy Training to Promote Social Corrections**<br>
 *Catherine King, Kathleen M. Carley*  
 SBP-BRiMS Conference · Pittsburgh, PA · September 2024  
 [Poster](https://kingcatherine.github.io/files/King_OMEN_BRIMS_Poster_2024.pdf)
 
 ---
 
-**Citation Network Analysis of Misinformation Interventions**<br>
+**Poster: Citation Network Analysis of Misinformation Interventions**<br>
 *Catherine King, Peter Carragher, Kathleen M. Carley*  
 SBP-BRiMS Conference · Pittsburgh, PA · September 2023  
 [Poster](https://kingcatherine.github.io/files/King_CitationNetworkAnalysis_BRIMS_Poster.pdf)
