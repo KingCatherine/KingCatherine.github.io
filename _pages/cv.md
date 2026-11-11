@@ -46,13 +46,13 @@ At Carnegie Mellon University, I was a <b>teaching assistant</b> for the followi
 * [OMEN Exercise](https://dl.acm.org/doi/10.1007/978-3-032-07715-8_22) (Spring 2024) - Led training sessions on misinformation detection and countering. 
 
 At William & Mary, I was a <b>teaching assistant</b> for the following [courses](https://catalog.wm.edu/undergraduate/courses/math/):
-* Calculus II (MATH 112) - Led recitation sessions for four semesters (Fall 2014 to Spring 2016)
-* Introduction to Mathematical Biology (MATH 345/MSCI 648) - Led lab sessions and office hours (Fall 2013)
+* <b>Calculus II</b> (MATH 112) - Led recitation sessions for four semesters (Fall 2014 to Spring 2016)
+* <b>Introduction to Mathematical Biology</b> (MATH 345/MSCI 648) - Led lab sessions and office hours (Fall 2013)
 
 At William & Mary, I was a <b>grader</b> for the following [courses](https://catalog.wm.edu/undergraduate/courses/math/) for at least one semester:
-* Elementary Probability and Statistics (MATH 112)
-* Ordinary Differential Equations (MATH 302)
-* Mathematical Statistics (MATH 452/552)
+* <b>Elementary Probability and Statistics</b> (MATH 112)
+* <b>Ordinary Differential Equations</b> (MATH 302)
+* <b>Mathematical Statistics</b> (MATH 452/552)
 
 ## Awards
 * <b>SBP-BRiMS 2026 Outstanding Service Award</b><br>
@@ -69,14 +69,14 @@ Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About L
   International Symposium on Biomathematics and Ecology Education and Research Conference, 2013
   
 ## Service
-* <b>Guest Co-Editor (forthcoming): “Governing the Digital Age: AI, Platforms, and Online Harms Policy”</b><br>
-[Special issue](https://link.springer.com/collections/aejhahchjj) of Computational and Mathematical Organization Theory
+* <b>Guest Co-Editor (forthcoming): [Governing the Digital Age: AI, Platforms, and Online Harms Policy](https://link.springer.com/collections/aejhahchjj)</b><br>
+Special issue of Computational and Mathematical Organization Theory
 
 * <b>Peer Reviewer</b><br>
 Nature Human Behaviour, Scientific Reports, New Media & Society, JMIR Infodemiology, Social Media + Society, Policy Studies Journal, Behavioral Sciences of Terrorism and Political Aggression, SBP-BRiMS, and IDeaS Conference 
 
 * <b>Election Judge</b><br>
 Head poll worker at a Pittsburgh election day precinct (formerly 10-12, now 24-05)
-Manage election day operations, supervise poll workers, and certify the precinct’s results
+Tasked with managing election day operations, supervising poll workers, and certifying the precinct’s results
 
 <b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV.pdf).</b>

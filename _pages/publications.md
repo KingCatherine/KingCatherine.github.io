@@ -31,14 +31,13 @@ Carnegie Mellon University · Institute for Software Research · 2021
 Selected works are shown below in reverse chronological order.
 
 **Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions**<br>
-*Catherine King, Lynnette Hui Xian Ng, and Kathleen M. Carley*
+*Catherine King, Lynnette Hui Xian Ng, and Kathleen M. Carley*<br>
 Preprint [arXiv:2608.20649](https://arxiv.org/abs/2608.20649) [cs.AI] · 2026
 
 ---
 
-
 **[User-Reported Misinformation Exposure Across Social Media Platforms](https://link.springer.com/chapter/10.1007/978-3-032-40581-4_17)**<br>
-*Catherine King, Lynnette Hui Xian Ng, and Kathleen M. Carley*
+*Catherine King, Lynnette Hui Xian Ng, and Kathleen M. Carley*<br>
 SBP-BRiMS Conference Proceedings · 2026
 
 ---
