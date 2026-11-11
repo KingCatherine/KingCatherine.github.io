@@ -27,12 +27,19 @@ Carnegie Mellon University · Institute for Software Research · 2021
 [PDF](https://kingcatherine.github.io/files/CMU-ISR-21-110.pdf)
 
 ---
-## Peer-reviewed Publications
+## Publications
 Selected works are shown below in reverse chronological order.
+
+**Beyond Effectiveness: A Multi-Criteria Framework for Comparing Practical Socio-Technical Interventions**<br>
+*Catherine King, Lynnette Hui Xian Ng, and Kathleen M. Carley*
+Preprint [arXiv:2608.20649](https://arxiv.org/abs/2608.20649) [cs.AI] · 2026
+
+---
+
 
 **[User-Reported Misinformation Exposure Across Social Media Platforms](https://link.springer.com/chapter/10.1007/978-3-032-40581-4_17)**<br>
 *Catherine King, Lynnette Hui Xian Ng, and Kathleen M. Carley*
-SBP-BRiMS Conference Proceedings· 2026
+SBP-BRiMS Conference Proceedings · 2026
 
 ---
 
@@ -45,7 +52,7 @@ Journal of Online Trust and Safety, 3(2) · 2026
 
 **[Promoting Social Corrections: A Media Literacy Intervention for Misinformation on Social Media](https://link.springer.com/chapter/10.1007/978-3-032-07715-8_22)**<br>
 *Catherine King and Kathleen M. Carley*  
-SBP-BRiMS Conference Proceedings· 2025  
+SBP-BRiMS Conference Proceedings · 2025  
 [PDF](https://kingcatherine.github.io/files/Promoting-Social-Corrections.pdf) · [IDeaS Blog](https://www.cmu.edu/ideas-social-cybersecurity/news1/blog-posts/blog-king-teach-counter-misinfo-spotted.html) 
 
 ---
