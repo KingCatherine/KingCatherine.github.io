@@ -70,7 +70,7 @@ Catherine King, Daniele Bellutta, and Kathleen M. Carley, 2020, “Lying About L
   
 ## Service
 * <b>Guest Co-Editor (forthcoming): [Governing the Digital Age: AI, Platforms, and Online Harms Policy](https://link.springer.com/collections/aejhahchjj)</b><br>
-Special issue of Computational and Mathematical Organization Theory
+Special issue of <i>Computational and Mathematical Organization Theory</i>
 
 * <b>Peer Reviewer</b><br>
 Nature Human Behaviour, Scientific Reports, New Media & Society, JMIR Infodemiology, Social Media + Society, Policy Studies Journal, Behavioral Sciences of Terrorism and Political Aggression, SBP-BRiMS, and IDeaS Conference 

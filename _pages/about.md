@@ -31,4 +31,4 @@ Before CMU, I earned a BS in [Mathematics](https://www.wm.edu/as/mathematics/) a
 ---
 
 
-<i>Last Updated: August 7th, 2025</i>
+<i>Last Updated: November 11th, 2026</i>
