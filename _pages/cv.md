@@ -74,7 +74,7 @@ Special issue of <i>Computational and Mathematical Organization Theory</i>
 * <b>Peer Reviewer</b><br>
 Nature Human Behaviour, Scientific Reports, New Media & Society, JMIR Infodemiology, Social Media + Society, Policy Studies Journal, Behavioral Sciences of Terrorism and Political Aggression, SBP-BRiMS, and IDeaS Conference 
 * <b>Election Judge</b><br>
-Head poll worker at a Pittsburgh election day precinct (formerly 10-12, now 24-05)
+Head poll worker at a Pittsburgh election day precinct (formerly 10-12, now 24-05).
 Tasked with managing election day operations, supervising poll workers, and certifying the precinct’s results
 
 <b>See a more detailed CV [here](https://kingcatherine.github.io/files/CatherineKingCV.pdf).</b>
